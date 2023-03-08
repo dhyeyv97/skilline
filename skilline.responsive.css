@@ -532,6 +532,7 @@
     .skilline_nav .navbar-collapse {
         text-align: center;
         padding: 10px;
+        margin-top : 35px;
         background: rgb(44, 54, 100) ;
         background-color: #fbe9d9;
        }
